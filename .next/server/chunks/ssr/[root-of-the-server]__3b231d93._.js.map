@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 15, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/user/OneDrive/Desktop/traveller/lib/auth-actions.ts"],"sourcesContent":["\"use server\";\r\n\r\nimport { signIn, signOut } from \"@/auth\";\r\n\r\nexport const login = async () => {\r\n  await signIn(\"github\", { redirectTo: \"/\" });\r\n};\r\n\r\nexport const logout = async () => {\r\n  await signOut({ redirectTo: \"/\" });\r\n};"],"names":[],"mappings":";;;;;;IAIa,QAAA,WAAA,GAAA,CAAA,GAAA,sNAAA,CAAA,wBAAA,EAAA,8CAAA,sNAAA,CAAA,aAAA,EAAA,KAAA,GAAA,sNAAA,CAAA,mBAAA,EAAA","debugId":null}}]
-}
