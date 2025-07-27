@@ -1,0 +1,6 @@
+{
+  "/api/uploadthing/route": "app/api/uploadthing/route.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/trips/new/page": "app/trips/new/page.js",
+  "/trips/page": "app/trips/page.js"
+}

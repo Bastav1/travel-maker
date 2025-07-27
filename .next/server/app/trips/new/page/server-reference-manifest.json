@@ -1,0 +1,38 @@
+{
+  "node": {
+    "7f2c51dc5e331d238b964af4f3ab62d4cd8ecce930": {
+      "workers": {
+        "app/trips/new/page": {
+          "moduleId": "[project]/.next-internal/server/app/trips/new/page/actions.js { ACTIONS_MODULE0 => \"[project]/lib/auth-actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/lib/actions/create-trip.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/trips/new/page": "action-browser"
+      }
+    },
+    "7fbc797a3e61cbef748ff189d5df0be71f968111d5": {
+      "workers": {
+        "app/trips/new/page": {
+          "moduleId": "[project]/.next-internal/server/app/trips/new/page/actions.js { ACTIONS_MODULE0 => \"[project]/lib/auth-actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/lib/actions/create-trip.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/trips/new/page": "action-browser"
+      }
+    },
+    "402c4c5c5270672536855d904b8371a7379f766713": {
+      "workers": {
+        "app/trips/new/page": {
+          "moduleId": "[project]/.next-internal/server/app/trips/new/page/actions.js { ACTIONS_MODULE0 => \"[project]/lib/auth-actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/lib/actions/create-trip.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/trips/new/page": "action-browser"
+      }
+    }
+  },
+  "edge": {}
+}
